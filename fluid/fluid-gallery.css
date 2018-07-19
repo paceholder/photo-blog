@@ -8,8 +8,8 @@ body {
 .container.gallery-container {
     background-color: #fff;
     color: #35373a;
-    min-height: 100vh;
-    padding: 30px 50px;
+    min-height: 80vh;
+    padding: 0px 0px;
 }
 
 .gallery-container h1 {
@@ -29,12 +29,21 @@ body {
 
 .nav-link {
     font-family: 'Droid Sans', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 
 .tz-gallery {
     padding: 40px;
+}
+
+.home-text {
+    padding: 20px 40px;
+    margin: 20px 10px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 18px;
+
+    color: #555555;
 }
 
 /* Override bootstrap column paddings */
